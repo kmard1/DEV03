@@ -1,0 +1,66 @@
+div {
+ height: 50px;
+  width: 100%;
+  background-color: blue;
+  border: solid;
+  text-align: center;
+  position: fixed;
+
+
+}
+
+#logo {
+    
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: 20px;
+  height: 20px;
+  top: 20px;
+  margin: 20px;
+}
+   .container { 
+            width:600px; 
+            height:190px; 
+            background-color:green; 
+            padding-top:20px; 
+            padding-left:15px; 
+            padding-right:15px; 
+        } 
+        #st-box { 
+            float:left; 
+            width:180px; 
+            height:160px; 
+            background-color:white; 
+            border:solid black; 
+        } 
+        #nd-box { 
+            float:left; 
+            width:180px; 
+            height:160px; 
+            background-color:white;  
+            border:solid black; 
+            margin-left:20px; 
+        } 
+        #rd-box { 
+            float:right; 
+            width:180px; 
+            height:160px; 
+            background-color:white; 
+            border:solid black;
+	}
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: blue;
+  border: solid;
+  color: black;
+  text-align: center;
+}
+
+
+
